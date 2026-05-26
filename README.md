@@ -1,1 +1,0 @@
-# pwa-temperamento-catolico
