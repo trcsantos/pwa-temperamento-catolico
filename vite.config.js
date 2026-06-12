@@ -9,9 +9,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'icons.svg'], // arquivos que estão na sua pasta public
       manifest: {
-        name: 'PWA Temperamento Católico',
+        name: 'Descubra o seu temperamento de acordo com a fé católica',
         short_name: 'TempCatolico',
-        description: 'Aplicativo de temperamentos católicos',
+        description: 'Questionário para ajudar no autoconhecimento e na busca pela santidade dentro do conceito apresentado pelo Pe. Paulo Ricardo: "a graça não anula a natureza, mas a aperfeiçoa"',
         theme_color: '#ffffff',
         icons: [
           {
